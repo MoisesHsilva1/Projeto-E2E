@@ -34,6 +34,10 @@
 
 https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/a5eafea8-52c4-4dc0-ad77-e3e5006709cc
 
+<h2>Licenças usadas</h2>
+
+<a href="https://github.com/alura-cursos/alurapic-base"> AluraPic no github</a>
+
 
 
 
