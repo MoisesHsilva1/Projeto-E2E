@@ -14,5 +14,10 @@
 
 <h2>Instalação</h2>
 
-<p>Logo após abra o prompt de comando(como administrador) e de o comando "Cd (caminho onde esta a pasta do AluraPic)"</p>
+<p>Logo após abra o prompt de comando(como administrador) e de o comando "Cd (caminho onde esta a diretorio do AluraPic)"</p>
 <img src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/46694fbb-5b8c-4e3c-859d-7998b8a5f16f">
+
+<p>Após entra no diretoria do AluraPic execute o comando "npm install"</p>
+<img src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/5f962166-501d-45d7-a29c-3d33445e1091">
+
+
