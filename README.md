@@ -8,6 +8,12 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<h2>Tecnologias utilizadas</h2>
+
+- ``JavaScript``
+- ``Cypress``
+
+
 <h2>Requisitos para execução</h2>
 <p>Node.js versão 16.13.1</p>
 <p>Cypress 18.15</p>
