@@ -7,5 +7,12 @@
 <p>Node.js versão 16.13.1</p>
 <p>Cypress 18.15</p>
 
-<h2>Instalação</h2>
+<h2>Downloads</h2>
 <p>Abaixa o aluraPic e extrai a pagina do aluraPic</p>
+<a href="https://github.com/alura-cursos/alurapic/archive/refs/heads/main.zip"> Download AluraPic</a>
+
+
+<h2>Instalação</h2>
+
+<p>Logo após abra o prompt de comando(como administrador) e de o comando "Cd (caminho onde esta a pasta do AluraPic)"</p>
+<img src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/46694fbb-5b8c-4e3c-859d-7998b8a5f16f">
