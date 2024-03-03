@@ -13,7 +13,7 @@
 <p>Cypress 18.15</p>
 
 <h2>Downloads</h2>
-<p>Abaixa o aluraPic e extrai a pagina do aluraPic</p>
+<p>Abaixa o aluraPic e extrai as pastas do aluraPic</p>
 <a href="https://github.com/alura-cursos/alurapic/archive/refs/heads/main.zip"> Download AluraPic</a>
 
 
