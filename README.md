@@ -16,7 +16,7 @@
 
 <h2>Plataforma de testes</h2>
 <p>Acesso a plataforma do aluraPic </p>
-<a href="https://3076-cypress-alurapic-front.vercel.app/#/home"> Download AluraPic</a>
+<a href="https://3076-cypress-alurapic-front.vercel.app/#/home"> Site AluraPic</a>
 
 
 
