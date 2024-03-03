@@ -23,17 +23,6 @@
 <a href="https://github.com/alura-cursos/alurapic/archive/refs/heads/main.zip"> Download AluraPic</a>
 
 
-<h2>Instalação</h2>
-
-<p>Logo após, abra o prompt de comando (como administrador) e dê o comando 'cd (caminho onde está o diretório do AluraPic)'</p>
-<img src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/46694fbb-5b8c-4e3c-859d-7998b8a5f16f">
-
-<p>Após entrar no diretório do AluraPic, execute o comando 'npm install'.</p>
-<img src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/5f962166-501d-45d7-a29c-3d33445e1091">
-
-<p>Ao fim da instalação, execute o comando 'npm start'.</p>
-<img src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/0f9db4f7-662c-46e9-9ff6-4da55e193043">
-<p>Após a execução do comando, o ambiente do AluraPic estará pronto!</p>
 
 <h2>Demonstração da Aplicação</h2>
 <p>Teste de cadastro correto</p>
