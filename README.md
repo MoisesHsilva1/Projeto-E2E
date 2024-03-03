@@ -29,6 +29,9 @@ https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/a5eafea8-52c4-4dc0
 
 <a href="https://github.com/alura-cursos/alurapic-base"> AluraPic no github</a>
 
+# Autor
+
+ [<img loading="lazy" src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/b1a9e6e2-60b0-4ce6-ba81-edcddd954366" width=115><br><sub>Moisés Henrique</sub>](https://github.com/MoisesHsilva1) 
 
 
 
