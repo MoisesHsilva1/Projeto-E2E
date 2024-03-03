@@ -14,13 +14,9 @@
 - ``Cypress``
 
 
-<h2>Requisitos para execução</h2>
-<p>Node.js versão 16.13.1</p>
-<p>Cypress 18.15</p>
-
-<h2>Downloads</h2>
-<p>Abaixa o aluraPic e extrai as pastas do aluraPic</p>
-<a href="https://github.com/alura-cursos/alurapic/archive/refs/heads/main.zip"> Download AluraPic</a>
+<h2>Plataforma de testes</h2>
+<p>Acesso a plataforma do aluraPic </p>
+<a href="https://3076-cypress-alurapic-front.vercel.app/#/home"> Download AluraPic</a>
 
 
 
