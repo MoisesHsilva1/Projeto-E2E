@@ -14,13 +14,9 @@
 - ``Cypress``
 
 
-<h2>Requisitos para execução</h2>
-<p>Node.js versão 16.13.1</p>
-<p>Cypress 18.15</p>
-
-<h2>Downloads</h2>
-<p>Abaixa o aluraPic e extrai as pastas do aluraPic</p>
-<a href="https://github.com/alura-cursos/alurapic/archive/refs/heads/main.zip"> Download AluraPic</a>
+<h2>Plataforma de testes</h2>
+<p>Acesso a plataforma do aluraPic </p>
+<a href="https://3076-cypress-alurapic-front.vercel.app/#/home"> Site AluraPic</a>
 
 
 
@@ -33,6 +29,9 @@ https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/a5eafea8-52c4-4dc0
 
 <a href="https://github.com/alura-cursos/alurapic-base"> AluraPic no github</a>
 
+# Autor
+
+ [<img loading="lazy" src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/b1a9e6e2-60b0-4ce6-ba81-edcddd954366" width=115><br><sub>Moisés Henrique</sub>](https://github.com/MoisesHsilva1) 
 
 
 
