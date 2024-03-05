@@ -4,6 +4,6 @@ describe('Pagina de login', () => {
     cy.visit('https://3076-cypress-alurapic-front.vercel.app/#/home') })
 
     it('Preecher o campo de login corretamente', () => {
-      cy.login('pedroT', '123456789')
+      cy.login('pedrot', '123456789')
     })
 })
