@@ -5,7 +5,7 @@
 
 <h2>Status do Projeto</h2>
 <p align="left">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIDO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20DESENVOLVIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 <h2>Tecnologias utilizadas</h2>
